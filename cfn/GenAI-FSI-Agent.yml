@@ -44,7 +44,7 @@ Parameters:
     Description: GitHub PAT. 
     Type: String
     NoEcho: true
-    Default: your-github-token-secret-name
+    Default: github-token-01
   KendraWebCrawlerUrl:
     Description: Seed URL for Kendra WebCrawler. 
     Type: String
